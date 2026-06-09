@@ -1,0 +1,12 @@
+[submodule "01addressBookProj"]
+	path = 01addressBookProj
+	url = https://github.com/lara-lee/01addressBookProj.git
+[submodule "02memberBbsProj"]
+	path = 02memberBbsProj
+	url = https://github.com/lara-lee/02memberBbsProj.git
+[submodule "03tripMaven_Team"]
+	path = 03tripMaven_Team
+	url = https://github.com/lara-lee/03tripMaven_Team.git
+[submodule "04textify"]
+	path = 04textify
+	url = https://github.com/lara-lee/04textify.git
