@@ -4,10 +4,14 @@ Archive of beginner projects from ICT 인재개발원 (2023).
 
 ## Projects
 
-- [01addressBookProj](01addressBookProj/) — 주소록 프로젝트
-- [02memberBbsProj](02memberBbsProj/) — 회원/게시판 프로젝트
-- [03tripMaven_Team](03tripMaven_Team/) — Trip Maven (팀 프로젝트)
-- [04textify](04textify/) — Textify
+| # | Project | Period | Description |
+| --- | --- | --- | --- |
+| 1 | [001addressBookProj](001addressBookProj/) | 2024-10-21 ~ 2024-11-25 | 주소록 프로젝트 |
+| 2 | [002memberBbsProj](002memberBbsProj/) | 2024-10-21 ~ 2024-11-25 | 회원/게시판 프로젝트 |
+| 3 | [003tripMaven_Team](003tripMaven_Team/) | 2024-10-29 ~ 2024-11-25 | Trip Maven (팀 프로젝트) |
+| 4 | [004textify](004textify/) | 2024-10-23 ~ 2025-12-08 | Textify |
+
+> 기간은 각 레포의 첫/마지막 커밋 날짜 기준.
 
 ## Clone with submodules
 

@@ -1,12 +1,12 @@
 [submodule "01addressBookProj"]
-	path = 01addressBookProj
-	url = https://github.com/lara-lee/01addressBookProj.git
+	path = 001addressBookProj
+	url = https://github.com/lara-lee/001addressBookProj.git
 [submodule "02memberBbsProj"]
-	path = 02memberBbsProj
-	url = https://github.com/lara-lee/02memberBbsProj.git
+	path = 002memberBbsProj
+	url = https://github.com/lara-lee/002memberBbsProj.git
 [submodule "03tripMaven_Team"]
-	path = 03tripMaven_Team
-	url = https://github.com/lara-lee/03tripMaven_Team.git
+	path = 003tripMaven_Team
+	url = https://github.com/lara-lee/003tripMaven_Team.git
 [submodule "04textify"]
-	path = 04textify
-	url = https://github.com/lara-lee/04textify.git
+	path = 004textify
+	url = https://github.com/lara-lee/004textify.git
